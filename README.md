@@ -2,6 +2,8 @@
 
 This is a real-time OpenGL simulation of a black hole with an accretion disk and gravitational lensing effects.
 
+![Black Hole Simulation](blackhole.png)
+
 ## Features
 
 - Real-time rendering of a black hole event horizon
